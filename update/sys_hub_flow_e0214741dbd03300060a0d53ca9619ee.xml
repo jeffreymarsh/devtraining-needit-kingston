@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Learning Path Training Module</description>
+        <internal_name>example_flow_for_needit</internal_name>
+        <label_cache>[{"name":"7630ce27-b279-446b-8ed8-6650d8bc97fb.record","label":"1➛NeedIt Record","reference":"x_58872_needit_needit","reference_display":"NeedIt Record","type":"reference","base_type":"reference"},{"name":"7630ce27-b279-446b-8ed8-6650d8bc97fb.table_name","label":"1➛NeedIt Table","reference":"x_58872_needit_needit","reference_display":"NeedIt Table","type":"table_name","base_type":"table_name"}]</label_cache>
+        <latest_snapshot>22970385dbd03300060a0d53ca96190a</latest_snapshot>
+        <master_snapshot>6a570f45dbd03300060a0d53ca961946</master_snapshot>
+        <name>Example Flow for NeedIt</name>
+        <outputs/>
+        <remote_trigger_id>32570f45dbd03300060a0d53ca96198f</remote_trigger_id>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-18 17:40:44</sys_created_on>
+        <sys_id>e0214741dbd03300060a0d53ca9619ee</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Example Flow for NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_e0214741dbd03300060a0d53ca9619ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-18 18:11:32</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_variable_value action="delete_multiple" query="document_key=e0214741dbd03300060a0d53ca9619ee"/>
+</record_update>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Learning Path Training Module</description>
+        <internal_name>example_flow_for_needit</internal_name>
+        <label_cache>[{"name":"7630ce27-b279-446b-8ed8-6650d8bc97fb.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"7630ce27-b279-446b-8ed8-6650d8bc97fb.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"}]</label_cache>
+        <master>true</master>
+        <name>Example Flow for NeedIt</name>
+        <outputs/>
+        <parent_flow display_value="Example Flow for NeedIt">e0214741dbd03300060a0d53ca9619ee</parent_flow>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-18 18:07:55</sys_created_on>
+        <sys_id>6a570f45dbd03300060a0d53ca961946</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Example Flow for NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_6a570f45dbd03300060a0d53ca961946</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-18 18:07:55</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow_snapshot>
+    <sys_variable_value action="delete_multiple" query="document_key=6a570f45dbd03300060a0d53ca961946"/>
+</record_update>
